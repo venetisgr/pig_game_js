@@ -4,5 +4,5 @@ Implementation of the pig game project from the udemy course "The complete javas
 
 The following flowchart explains the game functionality:
 
-![Flowchart](relative/path/to/pig-game-flowchart.png?raw=true "Flowchart")
+![Flowchart](pig-game-flowchart.png?raw=true "Flowchart")
 
